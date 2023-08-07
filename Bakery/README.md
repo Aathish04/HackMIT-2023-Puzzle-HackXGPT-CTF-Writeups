@@ -14,7 +14,7 @@ Let's try to find as much information as we can about the target site.
 
 When we visit the link, we're greeted with the following page:
 
-[Initial Screen](./images/InitScreen.png)
+![Initial Screen](./images/InitScreen.png)
 
 It looks like we can enter some basic information like our First and Last Name, the delivery date, and upload a file to the server.
 
@@ -22,7 +22,7 @@ And just like the briefing implied, we don't have any cookies to play around wit
 
 Having a look at the source code for the page, we find a very interesting comment:
 
-[Validate Files Serverside Comment](./images/ValidateFilesServersideComment.png)
+![Validate Files Serverside Comment](./images/ValidateFilesServersideComment.png)
 
 So we now know our exploit will have to leverage the lack of file validation on the server end.
 
@@ -32,13 +32,13 @@ I'll enable the `Intercept` feature, since I think it will be useful to look at 
 
 Filling in every piece of information and uploading a dummy `.png` file, we see:
 
-[Burp With Dummy Form Data](./images/BurpWithDummyData.png)
+![Burp With Dummy Form Data](./images/BurpWithDummyData.png)
 
 We see what we expected to see - all the data neatly packaged into a `POST` request.
 
 We let this request go through, and we get the following page in response:
 
-[Burp and Browser On Preview Page](./images/AfterDummyData.png)
+![Burp and Browser On Preview Page](./images/AfterDummyData.png)
 
 Three things stood out to me, and only two of them turned out to be relevant.
 
@@ -58,7 +58,7 @@ I'd done a little work with SVG files for other projects, and I had a hunch I co
 
 First, I tried uploading a normal SVG file (one of the samples from dev.w3.org [here](https://dev.w3.org/SVG/tools/svgweb/samples/svg-files/)) to see what response I would get.
 
-[After Normal SVG Upload](./images/AfterNormalSVG.png)
+![After Normal SVG Upload](./images/AfterNormalSVG.png)
 
 Cool, our file went through!
 
@@ -73,11 +73,11 @@ Now, after uploading the file, we should get an alert on our screen.
 
 Even before uploading the file to the server, just rendering it on the data entry page results in an XSS. I'm taking this to be a good sign, though it's no guarantee of anything ;)
 
-[XSS Before Server Upload](./images/XSSBeforeServerUpload.png)
+![XSS Before Server Upload](./images/XSSBeforeServerUpload.png)
 
 Now, lets see if any sanitisation is performed on the server's side to remove the malicious alert:
 
-[XSS After Server Upload](./images/XSSAfterServerUpload.png)
+![XSS After Server Upload](./images/XSSAfterServerUpload.png)
 
 Bingo! We get the alert that we want!
 
@@ -91,7 +91,7 @@ I used the Python3 implementation from [this](https://stackoverflow.com/a/219570
 
 Once my server was running, I asked `ngrok` to connect it to the public internet and give me a URL I could make requests to, and it gladly obliged:
 
-[Python Server and NGrok](./images/PyServerAndNGrok.png)
+![Python Server and NGrok](./images/PyServerAndNGrok.png)
 
 Now, to make a request to this endpoint using Javascript, we can use the `fetch()` API.
 
@@ -105,7 +105,7 @@ Editing the `onload` attribute to execute this Javascript, we finally have our p
 
 Let's upload it and monitor our server for any activity.
 
-[After Final XSS](./images/AfterFinalXSS.png)
+![After Final XSS](./images/AfterFinalXSS.png)
 
 Wonderful! We see that we get 3 requests to our server.
 
@@ -115,7 +115,7 @@ The third is Vishy looking at our order and letting their cookies be exfiltrated
 
 Opening up NGrok Inspector to take a closer look at the requests, we find that we did, indeed get the flag as part of Vishy's cookie!
 
-[NGRokInspector](./images/NGrokInspectorFinal.png)
+![NGRokInspector](./images/NGrokInspectorFinal.png)
 
 
 We enter the flag into the Command Centre, and we're good to go!

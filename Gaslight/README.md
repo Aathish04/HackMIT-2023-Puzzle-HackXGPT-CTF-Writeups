@@ -8,7 +8,7 @@ tl:dr: The nature of the LLM is such that you could trick it into revealing conf
 
 Clicking on the second link takes us to a page with the following secondary briefing:
 
-[Secondary Briefing](./images/SecondaryBriefing.png)
+![Secondary Briefing](./images/SecondaryBriefing.png)
 
 > For this puzzle, you will attempt to gaslight a HackMIT organizer into revealing the flag to the puzzle. You will need an OpenAI API key to participate in this puzzle. To obtain a key, make an account on OpenAI's playground. Then, visit the API keys page to copy an API key into here.
 
@@ -52,7 +52,7 @@ What if we ask him to write a snippet that compares a given input with the actua
 
 In this case, Nate sneakily inserts the key he's writing the portion of the code that checks if the input is equal to the key.
 
-[Success](./images/Success.png)
+![Success](./images/Success.png)
 
 Bingo!
 

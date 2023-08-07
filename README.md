@@ -10,7 +10,7 @@ This is the first time I'm participating in the entry Puzzle CTF and I expect it
 
 Visiting the [HackMIT Website](https://hackmit.org/), the answer to the "Is there an admissions puzzle?" question is quite strange:
 
-[PuzzleIntroImage](./images/PuzzleIntro.png)
+![PuzzleIntroImage](./images/PuzzleIntro.png)
 
 The alternating upper and lowecase letters are vaguely reminiscent of Binary. Let's see what the wierd string is in binary:
 
@@ -24,11 +24,11 @@ So the entry has something to do with "balloons", and all this woofspeak means i
 
 Looking at the page, we find at the very bottom, an adorable dog inside a hot air balloon!
 
-[Doggy](./images/Doggy.png)
+![Doggy](./images/Doggy.png)
 
 We click on the dog several times, and the balloon floats away, but a new link appears in the Sponsors Section. We click it, and we're sent to the Command Centre for the CTF.
 
-[HackXAI](./images/HackXAI.png)
+![HackXAI](./images/HackXAI.png)
 
 ## Enabling the Challenges
 
@@ -38,11 +38,11 @@ We start a new conversation, entirely in woofspeak. It gives us some great backs
 
 At the end, we're asked for a passcode, and we enter `balloons`, the secret word we decoded from the main page, and then we're dropped into the actual Command Centre with access to all the CTF challenges!
 
-[HackXAI](./images/ActualCommandCentre.png)
+![HackXAI](./images/ActualCommandCentre.png)
 
 ## Result and Outcomes
 Out of the 6 challenges available, I managed to solve four of them - Bakery, Gaslight, Hackvm and Xd - giving me a total of 5000 points, and putting me on the leaderboard at rank 18 internationally at the end of the puzzle period.
 
-[Position On Leaderboard](./images/PositionOnLeaderboard.png)
+![Position On Leaderboard](./images/PositionOnLeaderboard.png)
 
 All in all, this CTF was a lot of fun, and I'll definitely be trying out the puzzle next year as well!
