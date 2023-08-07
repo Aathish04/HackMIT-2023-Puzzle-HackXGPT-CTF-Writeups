@@ -1,0 +1,783 @@
+Breakpoint 1 at 0x800002f8
+Breakpoint 2 at 0x80000324
+
+Breakpoint 2, 0x80000324 in memcmp ()
+Num     Type           Disp Enb Address    What
+1       breakpoint     keep y   0x800002f8 <memcmp+232>
+	breakpoint already hit 5 times
+	ignore next 9995 hits
+        continue
+[Inferior 1 (process 1) exited with code 01]
+Breakpoint 1 at 0x800002f8
+Breakpoint 2 at 0x80000324
+
+Breakpoint 2, 0x80000324 in memcmp ()
+Num     Type           Disp Enb Address    What
+1       breakpoint     keep y   0x800002f8 <memcmp+232>
+	breakpoint already hit 5 times
+	ignore next 9995 hits
+        continue
+[Inferior 1 (process 1) exited with code 01]
+Breakpoint 1 at 0x800002f8
+Breakpoint 2 at 0x80000324
+
+Breakpoint 2, 0x80000324 in memcmp ()
+Num     Type           Disp Enb Address    What
+1       breakpoint     keep y   0x800002f8 <memcmp+232>
+	breakpoint already hit 5 times
+	ignore next 9995 hits
+        continue
+[Inferior 1 (process 1) exited with code 01]
+Breakpoint 1 at 0x800002f8
+Breakpoint 2 at 0x80000324
+
+Breakpoint 2, 0x80000324 in memcmp ()
+Num     Type           Disp Enb Address    What
+1       breakpoint     keep y   0x800002f8 <memcmp+232>
+	breakpoint already hit 5 times
+	ignore next 9995 hits
+        continue
+[Inferior 1 (process 1) exited with code 01]
+Breakpoint 1 at 0x800002f8
+Breakpoint 2 at 0x80000324
+
+Breakpoint 2, 0x80000324 in memcmp ()
+Num     Type           Disp Enb Address    What
+1       breakpoint     keep y   0x800002f8 <memcmp+232>
+	breakpoint already hit 5 times
+	ignore next 9995 hits
+        continue
+[Inferior 1 (process 1) exited with code 01]
+Breakpoint 1 at 0x800002f8
+Breakpoint 2 at 0x80000324
+
+Breakpoint 2, 0x80000324 in memcmp ()
+Num     Type           Disp Enb Address    What
+1       breakpoint     keep y   0x800002f8 <memcmp+232>
+	breakpoint already hit 5 times
+	ignore next 9995 hits
+        continue
+[Inferior 1 (process 1) exited with code 01]
+Breakpoint 1 at 0x800002f8
+Breakpoint 2 at 0x80000324
+
+Breakpoint 2, 0x80000324 in memcmp ()
+Num     Type           Disp Enb Address    What
+1       breakpoint     keep y   0x800002f8 <memcmp+232>
+	breakpoint already hit 5 times
+	ignore next 9995 hits
+        continue
+[Inferior 1 (process 1) exited with code 01]
+Breakpoint 1 at 0x800002f8
+Breakpoint 2 at 0x80000324
+
+Breakpoint 2, 0x80000324 in memcmp ()
+Num     Type           Disp Enb Address    What
+1       breakpoint     keep y   0x800002f8 <memcmp+232>
+	breakpoint already hit 5 times
+	ignore next 9995 hits
+        continue
+[Inferior 1 (process 1) exited with code 01]
+Breakpoint 1 at 0x800002f8
+Breakpoint 2 at 0x80000324
+
+Breakpoint 2, 0x80000324 in memcmp ()
+Num     Type           Disp Enb Address    What
+1       breakpoint     keep y   0x800002f8 <memcmp+232>
+	breakpoint already hit 5 times
+	ignore next 9995 hits
+        continue
+[Inferior 1 (process 1) exited with code 01]
+Breakpoint 1 at 0x800002f8
+Breakpoint 2 at 0x80000324
+
+Breakpoint 2, 0x80000324 in memcmp ()
+Num     Type           Disp Enb Address    What
+1       breakpoint     keep y   0x800002f8 <memcmp+232>
+	breakpoint already hit 5 times
+	ignore next 9995 hits
+        continue
+[Inferior 1 (process 1) exited with code 01]
+Breakpoint 1 at 0x800002f8
+Breakpoint 2 at 0x80000324
+
+Breakpoint 2, 0x80000324 in memcmp ()
+Num     Type           Disp Enb Address    What
+1       breakpoint     keep y   0x800002f8 <memcmp+232>
+	breakpoint already hit 5 times
+	ignore next 9995 hits
+        continue
+[Inferior 1 (process 1) exited with code 01]
+Breakpoint 1 at 0x800002f8
+Breakpoint 2 at 0x80000324
+
+Breakpoint 2, 0x80000324 in memcmp ()
+Num     Type           Disp Enb Address    What
+1       breakpoint     keep y   0x800002f8 <memcmp+232>
+	breakpoint already hit 5 times
+	ignore next 9995 hits
+        continue
+[Inferior 1 (process 1) exited with code 01]
+Breakpoint 1 at 0x800002f8
+Breakpoint 2 at 0x80000324
+
+Breakpoint 2, 0x80000324 in memcmp ()
+Num     Type           Disp Enb Address    What
+1       breakpoint     keep y   0x800002f8 <memcmp+232>
+	breakpoint already hit 5 times
+	ignore next 9995 hits
+        continue
+[Inferior 1 (process 1) exited with code 01]
+Breakpoint 1 at 0x800002f8
+Breakpoint 2 at 0x80000324
+
+Breakpoint 2, 0x80000324 in memcmp ()
+Num     Type           Disp Enb Address    What
+1       breakpoint     keep y   0x800002f8 <memcmp+232>
+	breakpoint already hit 5 times
+	ignore next 9995 hits
+        continue
+[Inferior 1 (process 1) exited with code 01]
+Breakpoint 1 at 0x800002f8
+Breakpoint 2 at 0x80000324
+
+Breakpoint 2, 0x80000324 in memcmp ()
+Num     Type           Disp Enb Address    What
+1       breakpoint     keep y   0x800002f8 <memcmp+232>
+	breakpoint already hit 5 times
+	ignore next 9995 hits
+        continue
+[Inferior 1 (process 1) exited with code 01]
+Breakpoint 1 at 0x800002f8
+Breakpoint 2 at 0x80000324
+
+Breakpoint 2, 0x80000324 in memcmp ()
+Num     Type           Disp Enb Address    What
+1       breakpoint     keep y   0x800002f8 <memcmp+232>
+	breakpoint already hit 5 times
+	ignore next 9995 hits
+        continue
+[Inferior 1 (process 1) exited with code 01]
+Breakpoint 1 at 0x800002f8
+Breakpoint 2 at 0x80000324
+
+Breakpoint 2, 0x80000324 in memcmp ()
+Num     Type           Disp Enb Address    What
+1       breakpoint     keep y   0x800002f8 <memcmp+232>
+	breakpoint already hit 5 times
+	ignore next 9995 hits
+        continue
+[Inferior 1 (process 1) exited with code 01]
+Breakpoint 1 at 0x800002f8
+Breakpoint 2 at 0x80000324
+
+Breakpoint 2, 0x80000324 in memcmp ()
+Num     Type           Disp Enb Address    What
+1       breakpoint     keep y   0x800002f8 <memcmp+232>
+	breakpoint already hit 5 times
+	ignore next 9995 hits
+        continue
+[Inferior 1 (process 1) exited with code 01]
+Breakpoint 1 at 0x800002f8
+Breakpoint 2 at 0x80000324
+
+Breakpoint 2, 0x80000324 in memcmp ()
+Num     Type           Disp Enb Address    What
+1       breakpoint     keep y   0x800002f8 <memcmp+232>
+	breakpoint already hit 6 times
+	ignore next 9994 hits
+        continue
+[Inferior 1 (process 1) exited with code 01]
+Breakpoint 1 at 0x800002f8
+Breakpoint 2 at 0x80000324
+
+Breakpoint 2, 0x80000324 in memcmp ()
+Num     Type           Disp Enb Address    What
+1       breakpoint     keep y   0x800002f8 <memcmp+232>
+	breakpoint already hit 6 times
+	ignore next 9994 hits
+        continue
+[Inferior 1 (process 1) exited with code 01]
+Breakpoint 1 at 0x800002f8
+Breakpoint 2 at 0x80000324
+
+Breakpoint 2, 0x80000324 in memcmp ()
+Num     Type           Disp Enb Address    What
+1       breakpoint     keep y   0x800002f8 <memcmp+232>
+	breakpoint already hit 6 times
+	ignore next 9994 hits
+        continue
+[Inferior 1 (process 1) exited with code 01]
+Breakpoint 1 at 0x800002f8
+Breakpoint 2 at 0x80000324
+
+Breakpoint 2, 0x80000324 in memcmp ()
+Num     Type           Disp Enb Address    What
+1       breakpoint     keep y   0x800002f8 <memcmp+232>
+	breakpoint already hit 6 times
+	ignore next 9994 hits
+        continue
+[Inferior 1 (process 1) exited with code 01]
+Breakpoint 1 at 0x800002f8
+Breakpoint 2 at 0x80000324
+
+Breakpoint 2, 0x80000324 in memcmp ()
+Num     Type           Disp Enb Address    What
+1       breakpoint     keep y   0x800002f8 <memcmp+232>
+	breakpoint already hit 6 times
+	ignore next 9994 hits
+        continue
+[Inferior 1 (process 1) exited with code 01]
+Breakpoint 1 at 0x800002f8
+Breakpoint 2 at 0x80000324
+
+Breakpoint 2, 0x80000324 in memcmp ()
+Num     Type           Disp Enb Address    What
+1       breakpoint     keep y   0x800002f8 <memcmp+232>
+	breakpoint already hit 6 times
+	ignore next 9994 hits
+        continue
+[Inferior 1 (process 1) exited with code 01]
+Breakpoint 1 at 0x800002f8
+Breakpoint 2 at 0x80000324
+
+Breakpoint 2, 0x80000324 in memcmp ()
+Num     Type           Disp Enb Address    What
+1       breakpoint     keep y   0x800002f8 <memcmp+232>
+	breakpoint already hit 6 times
+	ignore next 9994 hits
+        continue
+[Inferior 1 (process 1) exited with code 01]
+Breakpoint 1 at 0x800002f8
+Breakpoint 2 at 0x80000324
+
+Breakpoint 2, 0x80000324 in memcmp ()
+Num     Type           Disp Enb Address    What
+1       breakpoint     keep y   0x800002f8 <memcmp+232>
+	breakpoint already hit 6 times
+	ignore next 9994 hits
+        continue
+[Inferior 1 (process 1) exited with code 01]
+Breakpoint 1 at 0x800002f8
+Breakpoint 2 at 0x80000324
+
+Breakpoint 2, 0x80000324 in memcmp ()
+Num     Type           Disp Enb Address    What
+1       breakpoint     keep y   0x800002f8 <memcmp+232>
+	breakpoint already hit 6 times
+	ignore next 9994 hits
+        continue
+[Inferior 1 (process 1) exited with code 01]
+Breakpoint 1 at 0x800002f8
+Breakpoint 2 at 0x80000324
+
+Breakpoint 2, 0x80000324 in memcmp ()
+Num     Type           Disp Enb Address    What
+1       breakpoint     keep y   0x800002f8 <memcmp+232>
+	breakpoint already hit 6 times
+	ignore next 9994 hits
+        continue
+[Inferior 1 (process 1) exited with code 01]
+Breakpoint 1 at 0x800002f8
+Breakpoint 2 at 0x80000324
+
+Breakpoint 2, 0x80000324 in memcmp ()
+Num     Type           Disp Enb Address    What
+1       breakpoint     keep y   0x800002f8 <memcmp+232>
+	breakpoint already hit 6 times
+	ignore next 9994 hits
+        continue
+[Inferior 1 (process 1) exited with code 01]
+Breakpoint 1 at 0x800002f8
+Breakpoint 2 at 0x80000324
+
+Breakpoint 2, 0x80000324 in memcmp ()
+Num     Type           Disp Enb Address    What
+1       breakpoint     keep y   0x800002f8 <memcmp+232>
+	breakpoint already hit 6 times
+	ignore next 9994 hits
+        continue
+[Inferior 1 (process 1) exited with code 01]
+Breakpoint 1 at 0x800002f8
+Breakpoint 2 at 0x80000324
+
+Breakpoint 2, 0x80000324 in memcmp ()
+Num     Type           Disp Enb Address    What
+1       breakpoint     keep y   0x800002f8 <memcmp+232>
+	breakpoint already hit 6 times
+	ignore next 9994 hits
+        continue
+[Inferior 1 (process 1) exited with code 01]
+Breakpoint 1 at 0x800002f8
+Breakpoint 2 at 0x80000324
+
+Breakpoint 2, 0x80000324 in memcmp ()
+Num     Type           Disp Enb Address    What
+1       breakpoint     keep y   0x800002f8 <memcmp+232>
+	breakpoint already hit 6 times
+	ignore next 9994 hits
+        continue
+[Inferior 1 (process 1) exited with code 01]
+Breakpoint 1 at 0x800002f8
+Breakpoint 2 at 0x80000324
+
+Breakpoint 2, 0x80000324 in memcmp ()
+Num     Type           Disp Enb Address    What
+1       breakpoint     keep y   0x800002f8 <memcmp+232>
+	breakpoint already hit 6 times
+	ignore next 9994 hits
+        continue
+[Inferior 1 (process 1) exited with code 01]
+Breakpoint 1 at 0x800002f8
+Breakpoint 2 at 0x80000324
+
+Breakpoint 2, 0x80000324 in memcmp ()
+Num     Type           Disp Enb Address    What
+1       breakpoint     keep y   0x800002f8 <memcmp+232>
+	breakpoint already hit 6 times
+	ignore next 9994 hits
+        continue
+[Inferior 1 (process 1) exited with code 01]
+Breakpoint 1 at 0x800002f8
+Breakpoint 2 at 0x80000324
+
+Breakpoint 2, 0x80000324 in memcmp ()
+Num     Type           Disp Enb Address    What
+1       breakpoint     keep y   0x800002f8 <memcmp+232>
+	breakpoint already hit 6 times
+	ignore next 9994 hits
+        continue
+[Inferior 1 (process 1) exited with code 01]
+Breakpoint 1 at 0x800002f8
+Breakpoint 2 at 0x80000324
+
+Breakpoint 2, 0x80000324 in memcmp ()
+Num     Type           Disp Enb Address    What
+1       breakpoint     keep y   0x800002f8 <memcmp+232>
+	breakpoint already hit 6 times
+	ignore next 9994 hits
+        continue
+[Inferior 1 (process 1) exited with code 01]
+Breakpoint 1 at 0x800002f8
+Breakpoint 2 at 0x80000324
+
+Breakpoint 2, 0x80000324 in memcmp ()
+Num     Type           Disp Enb Address    What
+1       breakpoint     keep y   0x800002f8 <memcmp+232>
+	breakpoint already hit 6 times
+	ignore next 9994 hits
+        continue
+[Inferior 1 (process 1) exited with code 01]
+Breakpoint 1 at 0x800002f8
+Breakpoint 2 at 0x80000324
+
+Breakpoint 2, 0x80000324 in memcmp ()
+Num     Type           Disp Enb Address    What
+1       breakpoint     keep y   0x800002f8 <memcmp+232>
+	breakpoint already hit 6 times
+	ignore next 9994 hits
+        continue
+[Inferior 1 (process 1) exited with code 01]
+Breakpoint 1 at 0x800002f8
+Breakpoint 2 at 0x80000324
+
+Breakpoint 2, 0x80000324 in memcmp ()
+Num     Type           Disp Enb Address    What
+1       breakpoint     keep y   0x800002f8 <memcmp+232>
+	breakpoint already hit 6 times
+	ignore next 9994 hits
+        continue
+[Inferior 1 (process 1) exited with code 01]
+Breakpoint 1 at 0x800002f8
+Breakpoint 2 at 0x80000324
+
+Breakpoint 2, 0x80000324 in memcmp ()
+Num     Type           Disp Enb Address    What
+1       breakpoint     keep y   0x800002f8 <memcmp+232>
+	breakpoint already hit 6 times
+	ignore next 9994 hits
+        continue
+[Inferior 1 (process 1) exited with code 01]
+Breakpoint 1 at 0x800002f8
+Breakpoint 2 at 0x80000324
+
+Breakpoint 2, 0x80000324 in memcmp ()
+Num     Type           Disp Enb Address    What
+1       breakpoint     keep y   0x800002f8 <memcmp+232>
+	breakpoint already hit 6 times
+	ignore next 9994 hits
+        continue
+[Inferior 1 (process 1) exited with code 01]
+Breakpoint 1 at 0x800002f8
+Breakpoint 2 at 0x80000324
+
+Breakpoint 2, 0x80000324 in memcmp ()
+Num     Type           Disp Enb Address    What
+1       breakpoint     keep y   0x800002f8 <memcmp+232>
+	breakpoint already hit 6 times
+	ignore next 9994 hits
+        continue
+[Inferior 1 (process 1) exited with code 01]
+Breakpoint 1 at 0x800002f8
+Breakpoint 2 at 0x80000324
+
+Breakpoint 2, 0x80000324 in memcmp ()
+Num     Type           Disp Enb Address    What
+1       breakpoint     keep y   0x800002f8 <memcmp+232>
+	breakpoint already hit 7 times
+	ignore next 9993 hits
+        continue
+[Inferior 1 (process 1) exited with code 01]
+Breakpoint 1 at 0x800002f8
+Breakpoint 2 at 0x80000324
+
+Breakpoint 2, 0x80000324 in memcmp ()
+Num     Type           Disp Enb Address    What
+1       breakpoint     keep y   0x800002f8 <memcmp+232>
+	breakpoint already hit 7 times
+	ignore next 9993 hits
+        continue
+[Inferior 1 (process 1) exited with code 01]
+Breakpoint 1 at 0x800002f8
+Breakpoint 2 at 0x80000324
+
+Breakpoint 2, 0x80000324 in memcmp ()
+Num     Type           Disp Enb Address    What
+1       breakpoint     keep y   0x800002f8 <memcmp+232>
+	breakpoint already hit 7 times
+	ignore next 9993 hits
+        continue
+[Inferior 1 (process 1) exited with code 01]
+Breakpoint 1 at 0x800002f8
+Breakpoint 2 at 0x80000324
+
+Breakpoint 2, 0x80000324 in memcmp ()
+Num     Type           Disp Enb Address    What
+1       breakpoint     keep y   0x800002f8 <memcmp+232>
+	breakpoint already hit 7 times
+	ignore next 9993 hits
+        continue
+[Inferior 1 (process 1) exited with code 01]
+Breakpoint 1 at 0x800002f8
+Breakpoint 2 at 0x80000324
+
+Breakpoint 2, 0x80000324 in memcmp ()
+Num     Type           Disp Enb Address    What
+1       breakpoint     keep y   0x800002f8 <memcmp+232>
+	breakpoint already hit 7 times
+	ignore next 9993 hits
+        continue
+[Inferior 1 (process 1) exited with code 01]
+Breakpoint 1 at 0x800002f8
+Breakpoint 2 at 0x80000324
+
+Breakpoint 2, 0x80000324 in memcmp ()
+Num     Type           Disp Enb Address    What
+1       breakpoint     keep y   0x800002f8 <memcmp+232>
+	breakpoint already hit 7 times
+	ignore next 9993 hits
+        continue
+[Inferior 1 (process 1) exited with code 01]
+Breakpoint 1 at 0x800002f8
+Breakpoint 2 at 0x80000324
+
+Breakpoint 2, 0x80000324 in memcmp ()
+Num     Type           Disp Enb Address    What
+1       breakpoint     keep y   0x800002f8 <memcmp+232>
+	breakpoint already hit 8 times
+	ignore next 9992 hits
+        continue
+[Inferior 1 (process 1) exited with code 01]
+Breakpoint 1 at 0x800002f8
+Breakpoint 2 at 0x80000324
+
+Breakpoint 2, 0x80000324 in memcmp ()
+Num     Type           Disp Enb Address    What
+1       breakpoint     keep y   0x800002f8 <memcmp+232>
+	breakpoint already hit 8 times
+	ignore next 9992 hits
+        continue
+[Inferior 1 (process 1) exited with code 01]
+Breakpoint 1 at 0x800002f8
+Breakpoint 2 at 0x80000324
+
+Breakpoint 2, 0x80000324 in memcmp ()
+Num     Type           Disp Enb Address    What
+1       breakpoint     keep y   0x800002f8 <memcmp+232>
+	breakpoint already hit 8 times
+	ignore next 9992 hits
+        continue
+[Inferior 1 (process 1) exited with code 01]
+Breakpoint 1 at 0x800002f8
+Breakpoint 2 at 0x80000324
+
+Breakpoint 2, 0x80000324 in memcmp ()
+Num     Type           Disp Enb Address    What
+1       breakpoint     keep y   0x800002f8 <memcmp+232>
+	breakpoint already hit 8 times
+	ignore next 9992 hits
+        continue
+[Inferior 1 (process 1) exited with code 01]
+Breakpoint 1 at 0x800002f8
+Breakpoint 2 at 0x80000324
+
+Breakpoint 2, 0x80000324 in memcmp ()
+Num     Type           Disp Enb Address    What
+1       breakpoint     keep y   0x800002f8 <memcmp+232>
+	breakpoint already hit 8 times
+	ignore next 9992 hits
+        continue
+[Inferior 1 (process 1) exited with code 01]
+Breakpoint 1 at 0x800002f8
+Breakpoint 2 at 0x80000324
+
+Breakpoint 2, 0x80000324 in memcmp ()
+Num     Type           Disp Enb Address    What
+1       breakpoint     keep y   0x800002f8 <memcmp+232>
+	breakpoint already hit 8 times
+	ignore next 9992 hits
+        continue
+[Inferior 1 (process 1) exited with code 01]
+Breakpoint 1 at 0x800002f8
+Breakpoint 2 at 0x80000324
+
+Breakpoint 2, 0x80000324 in memcmp ()
+Num     Type           Disp Enb Address    What
+1       breakpoint     keep y   0x800002f8 <memcmp+232>
+	breakpoint already hit 8 times
+	ignore next 9992 hits
+        continue
+[Inferior 1 (process 1) exited with code 01]
+Breakpoint 1 at 0x800002f8
+Breakpoint 2 at 0x80000324
+
+Breakpoint 2, 0x80000324 in memcmp ()
+Num     Type           Disp Enb Address    What
+1       breakpoint     keep y   0x800002f8 <memcmp+232>
+	breakpoint already hit 8 times
+	ignore next 9992 hits
+        continue
+[Inferior 1 (process 1) exited with code 01]
+Breakpoint 1 at 0x800002f8
+Breakpoint 2 at 0x80000324
+
+Breakpoint 2, 0x80000324 in memcmp ()
+Num     Type           Disp Enb Address    What
+1       breakpoint     keep y   0x800002f8 <memcmp+232>
+	breakpoint already hit 8 times
+	ignore next 9992 hits
+        continue
+[Inferior 1 (process 1) exited with code 01]
+Breakpoint 1 at 0x800002f8
+Breakpoint 2 at 0x80000324
+
+Breakpoint 2, 0x80000324 in memcmp ()
+Num     Type           Disp Enb Address    What
+1       breakpoint     keep y   0x800002f8 <memcmp+232>
+	breakpoint already hit 8 times
+	ignore next 9992 hits
+        continue
+[Inferior 1 (process 1) exited with code 01]
+Breakpoint 1 at 0x800002f8
+Breakpoint 2 at 0x80000324
+
+Breakpoint 2, 0x80000324 in memcmp ()
+Num     Type           Disp Enb Address    What
+1       breakpoint     keep y   0x800002f8 <memcmp+232>
+	breakpoint already hit 8 times
+	ignore next 9992 hits
+        continue
+[Inferior 1 (process 1) exited with code 01]
+Breakpoint 1 at 0x800002f8
+Breakpoint 2 at 0x80000324
+
+Breakpoint 2, 0x80000324 in memcmp ()
+Num     Type           Disp Enb Address    What
+1       breakpoint     keep y   0x800002f8 <memcmp+232>
+	breakpoint already hit 8 times
+	ignore next 9992 hits
+        continue
+[Inferior 1 (process 1) exited with code 01]
+Breakpoint 1 at 0x800002f8
+Breakpoint 2 at 0x80000324
+
+Breakpoint 2, 0x80000324 in memcmp ()
+Num     Type           Disp Enb Address    What
+1       breakpoint     keep y   0x800002f8 <memcmp+232>
+	breakpoint already hit 8 times
+	ignore next 9992 hits
+        continue
+[Inferior 1 (process 1) exited with code 01]
+Breakpoint 1 at 0x800002f8
+Breakpoint 2 at 0x80000324
+
+Breakpoint 2, 0x80000324 in memcmp ()
+Num     Type           Disp Enb Address    What
+1       breakpoint     keep y   0x800002f8 <memcmp+232>
+	breakpoint already hit 8 times
+	ignore next 9992 hits
+        continue
+[Inferior 1 (process 1) exited with code 01]
+Breakpoint 1 at 0x800002f8
+Breakpoint 2 at 0x80000324
+
+Breakpoint 2, 0x80000324 in memcmp ()
+Num     Type           Disp Enb Address    What
+1       breakpoint     keep y   0x800002f8 <memcmp+232>
+	breakpoint already hit 8 times
+	ignore next 9992 hits
+        continue
+[Inferior 1 (process 1) exited with code 01]
+Breakpoint 1 at 0x800002f8
+Breakpoint 2 at 0x80000324
+
+Breakpoint 2, 0x80000324 in memcmp ()
+Num     Type           Disp Enb Address    What
+1       breakpoint     keep y   0x800002f8 <memcmp+232>
+	breakpoint already hit 8 times
+	ignore next 9992 hits
+        continue
+[Inferior 1 (process 1) exited with code 01]
+Breakpoint 1 at 0x800002f8
+Breakpoint 2 at 0x80000324
+
+Breakpoint 2, 0x80000324 in memcmp ()
+Num     Type           Disp Enb Address    What
+1       breakpoint     keep y   0x800002f8 <memcmp+232>
+	breakpoint already hit 8 times
+	ignore next 9992 hits
+        continue
+[Inferior 1 (process 1) exited with code 01]
+Breakpoint 1 at 0x800002f8
+Breakpoint 2 at 0x80000324
+
+Breakpoint 2, 0x80000324 in memcmp ()
+Num     Type           Disp Enb Address    What
+1       breakpoint     keep y   0x800002f8 <memcmp+232>
+	breakpoint already hit 8 times
+	ignore next 9992 hits
+        continue
+[Inferior 1 (process 1) exited with code 01]
+Breakpoint 1 at 0x800002f8
+Breakpoint 2 at 0x80000324
+
+Breakpoint 2, 0x80000324 in memcmp ()
+Num     Type           Disp Enb Address    What
+1       breakpoint     keep y   0x800002f8 <memcmp+232>
+	breakpoint already hit 8 times
+	ignore next 9992 hits
+        continue
+[Inferior 1 (process 1) exited with code 01]
+Breakpoint 1 at 0x800002f8
+Breakpoint 2 at 0x80000324
+
+Breakpoint 2, 0x80000324 in memcmp ()
+Num     Type           Disp Enb Address    What
+1       breakpoint     keep y   0x800002f8 <memcmp+232>
+	breakpoint already hit 8 times
+	ignore next 9992 hits
+        continue
+[Inferior 1 (process 1) exited with code 01]
+Breakpoint 1 at 0x800002f8
+Breakpoint 2 at 0x80000324
+
+Breakpoint 2, 0x80000324 in memcmp ()
+Num     Type           Disp Enb Address    What
+1       breakpoint     keep y   0x800002f8 <memcmp+232>
+	breakpoint already hit 8 times
+	ignore next 9992 hits
+        continue
+[Inferior 1 (process 1) exited with code 01]
+Breakpoint 1 at 0x800002f8
+Breakpoint 2 at 0x80000324
+
+Breakpoint 2, 0x80000324 in memcmp ()
+Num     Type           Disp Enb Address    What
+1       breakpoint     keep y   0x800002f8 <memcmp+232>
+	breakpoint already hit 8 times
+	ignore next 9992 hits
+        continue
+[Inferior 1 (process 1) exited with code 01]
+Breakpoint 1 at 0x800002f8
+Breakpoint 2 at 0x80000324
+
+Breakpoint 2, 0x80000324 in memcmp ()
+Num     Type           Disp Enb Address    What
+1       breakpoint     keep y   0x800002f8 <memcmp+232>
+	breakpoint already hit 8 times
+	ignore next 9992 hits
+        continue
+[Inferior 1 (process 1) exited with code 01]
+Breakpoint 1 at 0x800002f8
+Breakpoint 2 at 0x80000324
+
+Breakpoint 2, 0x80000324 in memcmp ()
+Num     Type           Disp Enb Address    What
+1       breakpoint     keep y   0x800002f8 <memcmp+232>
+	breakpoint already hit 8 times
+	ignore next 9992 hits
+        continue
+[Inferior 1 (process 1) exited with code 01]
+Breakpoint 1 at 0x800002f8
+Breakpoint 2 at 0x80000324
+
+Breakpoint 2, 0x80000324 in memcmp ()
+Num     Type           Disp Enb Address    What
+1       breakpoint     keep y   0x800002f8 <memcmp+232>
+	breakpoint already hit 8 times
+	ignore next 9992 hits
+        continue
+[Inferior 1 (process 1) exited with code 01]
+Breakpoint 1 at 0x800002f8
+Breakpoint 2 at 0x80000324
+
+Breakpoint 2, 0x80000324 in memcmp ()
+Num     Type           Disp Enb Address    What
+1       breakpoint     keep y   0x800002f8 <memcmp+232>
+	breakpoint already hit 8 times
+	ignore next 9992 hits
+        continue
+[Inferior 1 (process 1) exited with code 01]
+Breakpoint 1 at 0x800002f8
+Breakpoint 2 at 0x80000324
+
+Breakpoint 2, 0x80000324 in memcmp ()
+Num     Type           Disp Enb Address    What
+1       breakpoint     keep y   0x800002f8 <memcmp+232>
+	breakpoint already hit 8 times
+	ignore next 9992 hits
+        continue
+[Inferior 1 (process 1) exited with code 01]
+Breakpoint 1 at 0x800002f8
+Breakpoint 2 at 0x80000324
+
+Breakpoint 2, 0x80000324 in memcmp ()
+Num     Type           Disp Enb Address    What
+1       breakpoint     keep y   0x800002f8 <memcmp+232>
+	breakpoint already hit 8 times
+	ignore next 9992 hits
+        continue
+[Inferior 1 (process 1) exited with code 01]
+Breakpoint 1 at 0x800002f8
+Breakpoint 2 at 0x80000324
+
+Breakpoint 2, 0x80000324 in memcmp ()
+Num     Type           Disp Enb Address    What
+1       breakpoint     keep y   0x800002f8 <memcmp+232>
+	breakpoint already hit 8 times
+	ignore next 9992 hits
+        continue
+[Inferior 1 (process 1) exited with code 01]
+Breakpoint 1 at 0x800002f8
+Breakpoint 2 at 0x80000324
+Python Exception <class 'KeyboardInterrupt'>: 
+
+Breakpoint 2, 0x80000324 in memcmp ()
+Num     Type           Disp Enb Address    What
+1       breakpoint     keep y   0x800002f8 <memcmp+232>
+	breakpoint already hit 8 times
+	ignore next 9992 hits
+        continue
+[Inferior 1 (process 1) exited with code 01]
+warning: Error detected on fd 0
+error detected on stdin
