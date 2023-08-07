@@ -1,5 +1,7 @@
 # HackXGPT - HackMIT Puzzle CTF 2023
 
+tl;dr: I participated in the HackMIT 2023 Entry Puzzle CTF, where the top 50 participants are guaranteed entry to HackMIT, and managed to solve 4 of 6 challenges. By the end of the puzzle period, I was ranked 18th on the leaderboard internationally!
+
 ## The Background
 
 Every year, MIT organises their flagship Hackathon HackMIT, for which there's usually an entry puzzle, where participants who solve all portions of the puzzle are guaranteed entry to HackMIT. This year, they implemented a leaderboard system, where the top 50 participants by the end of the Puzzle period are guaranteed entry to the hackathon.
