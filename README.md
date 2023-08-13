@@ -4,7 +4,7 @@ tl;dr: I participated in the HackMIT 2023 Entry Puzzle CTF, where the top 50 par
 
 ## The Background
 
-Every year, MIT organises their flagship Hackathon HackMIT, for which there's usually an entry puzzle, where participants who solve all portions of the puzzle are guaranteed entry to HackMIT. This year, they implemented a leaderboard system, where the top 50 participants by the end of the Puzzle period are guaranteed entry to the hackathon.
+Every year, MIT organises their flagship Hackathon HackMIT, for which there's usually an entry puzzle, where participants who solve portions of the puzzle are guaranteed entry to HackMIT. This year, they implemented a leaderboard system, where the top 50 participants by the end of the Puzzle period are guaranteed entry to the hackathon.
 
 This is the first time I'm participating in the entry Puzzle CTF and I expect it will be a lot of fun!
 
@@ -28,7 +28,7 @@ Looking at the page, we find at the very bottom, an adorable dog inside a hot ai
 
 ![Doggy](./images/Doggy.png)
 
-We click on the dog several times, and the balloon floats away, but a new link appears in the Sponsors Section. We click it, and we're sent to the Command Centre for the CTF.
+We click on the dog several times, and the balloon floats away, but a new link [`HackXAI`](https://hackxgpt.com/) appears in the Sponsors Section. We click it, and we're sent to the Command Centre for the CTF.
 
 ![HackXAI](./images/HackXAI.png)
 
@@ -47,4 +47,6 @@ Out of the 6 challenges available, I managed to solve four of them - Bakery, Gas
 
 ![Position On Leaderboard](./images/PositionOnLeaderboard.png)
 
-All in all, this CTF was a lot of fun, and I'll definitely be trying out the puzzle next year as well!
+I promptly got an [email](./AdmittedEmail.pdf) soon after the puzzle period closed, and [my profile page](./HackMIT2023AdmittedPage.pdf) on the HackMIT website reflected my new status as "Admitted".
+
+All in all, this CTF was a lot of fun, and I'll definitely be trying out the puzzle next year as well! 

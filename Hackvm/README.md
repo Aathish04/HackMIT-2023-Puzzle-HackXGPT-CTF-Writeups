@@ -1,8 +1,7 @@
 # HackVM
 
-tl;dr: The usage of memcmp() when comparing the input password with the actual password could be used to develop a side-channel timing attack, since memcmp() will take longer to process more correct characters in the input password.
+tl;dr: The usage of `memcmp()` when comparing the input password with the actual password could be used to develop a side-channel timing attack, since memcmp() will take longer to process more correct characters in the input password.
 
-Note: I _probably_ didn't solve this challenge the intended way, (using timing), but I did follow the intended solution "category" which is Side-Channel "Timing" analysis.
 
 ## The Briefing
 
@@ -16,7 +15,7 @@ Clicking the link takes us to [this site:](https://hackvm.hackxgpt.com/)
 
 From the hints, we see that we've been given a sort of "template" for the passphrase. We've also been directed to find out why using `memcmp` could be harmful. Looking at `memcmp`'s `man`-page:
 
-[Why no memcmp](./images/WhyNoMemcmp.png)
+![Why no memcmp](./images/WhyNoMemcmp.png)
 
 So it seems like we'll have to leverage the fact that we can identify how correct a particular passphrase is from just the time taken.
 
@@ -30,7 +29,7 @@ Trying to dump the assembly of the files, I face my first hurdle - I'm running `
 
 We initialise `ghidra`, make a new project, drag our `puzzle1` executable inside, and start the `CodeBrowser`:
 
-[Ghidra First Look](./images/GhidraFirstLook.png)
+![Ghidra First Look](./images/GhidraFirstLook.png)
 
 After hitting `analyse` on the code, we are dropped into what `ghidra` says is the `main()` function, and can see the disassembly of the code to our left, and the decompiled `C` code to our right.
 
@@ -39,7 +38,7 @@ It's important to never trust the `C` that `ghidra` outputs blindly. Here, we si
 Let's look at what the `memcmp` does:
 
 
-[Ghidra `memcmp`](./images/GhidraMemcmp.png)
+![Ghidra `memcmp`](./images/GhidraMemcmp.png)
 
 Right. This seems to be a little more complex than a standard `memcmp` function but not too different.
 
@@ -49,7 +48,7 @@ If the number of characters to compare is not zero, it hashes a portion of the f
 
 All the same, the important parts are at line 31 and 32 of the decompiled C, and memory address `0x800002ec` of the disassembly. 
 
-[Important `asm` and `C` code](./images/ImportantASMC.png)
+![Important `asm` and `C` code](./images/ImportantASMC.png)
 
 If at any point during the execution, the current characters being compared from the input string and the `hash`ed password don't match, then the function returns. This means `memcmp` will take more time to check a password in which you got the first "x" characters right than it will to check a password where you didn't get the first "x" characters correct.
 
@@ -72,6 +71,6 @@ I used `pwntools` to start a debug session on the `puzzle1` executable, and wrot
 
 I'm sure there's a way to get the `gdb` debug log directly as a string, but instead, I made it write to a log file. The log file will contain the details of the debug session, and from there I can read off how many iterations the loop went through. The character for which the loop traverses one more time than usual is the next correct character of the passphrase.
 
-[Program Running](./images/Running.png)
+![Program Running](./images/Running.png)
 
 Slowly but surely, character by character, the final passphrase is built, and I can enter it in the webshell version of the challenge to get the flag!
